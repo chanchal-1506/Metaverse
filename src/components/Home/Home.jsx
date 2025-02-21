@@ -9,7 +9,7 @@ import { BiPlayCircle } from "react-icons/bi";
 function Home() {
   return (
     <>
-    <div className="py-12 sm:py-0 dark:bg-black dark:text-white duration-300 overflow-hidden ">
+    <div className="py-12 sm:py-0 dark:bg-black dark:text-white duration-300 overflow-hidden  ">
         <div className="container min-h-[500px] flex  ">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 place-items-center">
             {/* hero text section */}

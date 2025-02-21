@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="pt-12 sm:py-0 dark:bg-black dark:text-white duration-300 overflow-hidden ">
     <div className="bg-gray-100 dark:bg-dark mt-14 rounded-t-3xl ">
-        <div data-aos="fade" className="">
+        <div data-aos="fade-up" className="">
           <div className="grid md:grid-cols-3 py-4">
             {/* company Details */}
             <div className="py-8 px-4">
